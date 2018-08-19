@@ -14,7 +14,7 @@ The project was carried out in the style of an intensive bootcamp. <br>
 | **Day03** | MAMP(macOS, Apache, MySQL, PHP) |
 | **Day04** | User Session |
 | **Day05** | SQL & Security |
-| **Day06** | Object oriented programming with PHP (classes, attributes, methods, $this, scopes, __GET, __SET, __TOSTRING, _INVOKE, __CLONE, class constants, static methods, static attributes, __CALL, __CALLSTATIC, comparisons PHP, accessors PHP) |
+| **Day06** | Object oriented programming with PHP (classes, attributes, methods, $this, scopes, __GET, __SET, __TOSTRING, __INVOKE, __CLONE, class constants, static methods, static attributes, __CALL, __CALLSTATIC, comparisons PHP, accessors PHP) |
 | **Day07** | Method override, protected, self, static, abstract classes, abstract methods, interfaces, inheritance PHP |
 | **Day08** | Traits, multiple traits, abstract methods, exceptions, Reflection API |
 | **Day09** | DOM, Ajax, jQuery |
