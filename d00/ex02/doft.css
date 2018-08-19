@@ -1,0 +1,60 @@
+body {
+    background: #505050;
+}
+table {
+    border: 1px;
+    border-color: black;
+    width: 100%;
+}
+td {
+    border: 1px;
+    border-color: black;
+    vertical-align: top;
+}
+.box {
+    margin: 10px 20px;
+    padding: 10px;
+    background: #909090;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px black;
+    position: relative;
+}
+.global {
+    width: 1462px;
+    margin: 0px auto;
+}
+.header {
+
+}
+.container {
+    padding: 0px 10px;
+}
+.left {
+    float: left;
+}
+.content {
+    float: left;
+    width: 74%;
+    position: relative;
+}
+.right {
+    float: right;
+}
+
+.left, .right {
+    width: 13%;
+    text-align: center;
+}
+
+.left .box, .right .box {
+    height: 400px;
+}
+
+.left img, .right img {
+    margin-bottom: 5px;
+    width: 75px;
+    height: 65px;
+}
+#form {
+    position: absolute; bottom: -90px; left: -240px; background: #88ff89; height: 150px; font-family: sans-serif;
+}
